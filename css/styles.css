@@ -14,7 +14,7 @@ body{
     grid-template-columns: auto auto auto auto;
     grid-template-rows: auto auto auto;
     width: 86%;
-    margin: 50px auto;
+    margin: 20px auto;
 }
 
 .section-card{
