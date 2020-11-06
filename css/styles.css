@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    background-color: hsl(210, 46%, 95%);
+}
+
+.section{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 100px;
+}
+
+.section-card{
+    position: relative;
+    padding: 30px;
+    margin: 0 20px;
+    border-radius: 10px;
+}
+
+.profile-section{
+    display: flex;
+    flex-direction: row;
+}
+
+.violet{
+    background-color: hsl(263, 55%, 52%);
+    flex: 200px;
+}
+
+.grayish{
+    background-color: hsl(217, 19%, 35%);
+    flex: 100px;
+}
+
+.blackish{
+    background-color: hsl(219, 29%, 14%);
+    flex: 200px;
+}
+
+.violet, .grayish, .blackish{
+    color: hsl(0, 0%, 81%);
+}
+
+.white{
+    background-color: hsl(0, 0%, 100%);
+    flex: 100px;
+    color: hsl(217, 19%, 35%);
+}
+
+.name{
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.title{
+    font-size: 13px;
+    font-weight: 500;
+    opacity: 50%;
+}
+
+.quote{
+    color: white;
+    font-size: 24px;
+    margin: 20px 0;
+}
+
+.dark-quote{
+    color: hsl(217, 19%, 35%);
+}
+
+.description{
+    color: hsl(0, 0%, 81%);
+    opacity: 70%;
+}
+
+.dark-description{
+    color: hsl(217, 19%, 35%);
+    opacity: 70%;
+}
+
+.profile-picture{
+    border-radius: 100%;
+    border: 2px solid hsl(286, 55%, 52%);
+    margin-right: 20px;
+}
+
+.quotation{
+    position: absolute;
+    top: 0;
+    right: 100px;
+}
