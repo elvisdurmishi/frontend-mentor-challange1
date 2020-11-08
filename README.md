@@ -4,20 +4,20 @@
 
 ### Live demo: [Testimonials Grid Section](https://elvisdurmishi.github.io/frontend-mentor-challange1/)
 
-###### Description: 
+###### Description:
 
 This is my solution for [Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7) challenge, which was to build out basic testimonials grid section.
-This is not a pixel perfect solution, nor the best solution. 
+This is not a pixel perfect solution, nor the best solution.
 
-###### Current status: 
+###### Current status:
 
 Finished
 
-###### Implementation time: 
+###### Implementation time:
 
 November 2020
 
-###### Technologies: 
+###### Technologies:
 
 HTML, CSS
 
@@ -25,11 +25,11 @@ HTML, CSS
 
 Frontend Mentor
 
-![](C:\Users\Baci\Downloads\Monokai-Theme-for-Typora-0.1\GitReadMe\desktop-preview.jpg)
+![](./design/desktop-preview.jpg)
 
-![](C:\Users\Baci\Downloads\Monokai-Theme-for-Typora-0.1\GitReadMe\desktop-design.jpg)
+![](./design/desktop-design.jpg)
 
-![](C:\Users\Baci\Documents\WebDevelopment Bootcamp\Frontend Mentor Challange\frontend-mentor-challange1\design\mobile-design.jpg)
+![](./design/mobile-design.jpg)
 
 ##### Contact:
 
